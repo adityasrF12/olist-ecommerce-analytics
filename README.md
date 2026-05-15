@@ -1,12 +1,13 @@
 # Olist E-Commerce: Strategic Growth & Logistics Pipeline
+![Olist Executive Dashboard](https://github.com/adityasrF12/olist-ecommerce-analytics/blob/main/dashboard_final.jpg)
 
 ## **Overview**
 An end-to-end analytics solution transforming **100k+ Brazilian e-commerce records** into actionable business insights. This project bridges the gap between raw data engineering in **Snowflake** and executive storytelling in **Power BI**.
 
 ## **The Tech Stack**
-* **Data Warehouse:** Snowflake (Cloud)
-* **Transformation:** SQL (CTEs, DATEDIFF)
-* **Business Intelligence:** Power BI (DAX, RFM Segmentation, Geospatial Heatmaps)
+* **Data Warehouse:** ![Snowflake](https://img.shields.io/badge/-Snowflake-249EDC?style=for-the-badge&logo=snowflake&logoColor=white)
+* **Transformation:** ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) (CTEs, DATEDIFF)
+* **Business Intelligence:** ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)(DAX, RFM Segmentation, Geospatial Heatmaps)
 
 ## **Key Insights**
 * **Retention:** Identified that **92% of users are one-time buyers**, pinpointing a massive opportunity for loyalty-driven marketing.
