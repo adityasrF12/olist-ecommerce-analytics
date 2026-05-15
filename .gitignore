@@ -1,0 +1,8 @@
+
+archive (2)/
+
+*.zip
+*.tmp
+
+.DS_Store
+Thumbs.db
